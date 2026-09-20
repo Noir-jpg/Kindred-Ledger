@@ -2,10 +2,6 @@
 
 A responsive personal income and expense tracker prototype.
 
-## Run
-
-Open `index.html` in a browser. No build step or backend is required.
-
 ## Included
 
 - Sign up/login-style entry and temporary guest mode
